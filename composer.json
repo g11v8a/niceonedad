@@ -1,5 +1,5 @@
 {
-  "name": "g11v8a/artisan-joke",
+  "name": "g11v8a/niceonedad",
   "description": "Random dad joke generator.",
   "require": {
     "guzzlehttp/guzzle": "^6.3"
