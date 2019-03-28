@@ -1,0 +1,27 @@
+{
+  "name": "g11v8a/artisan-joke",
+  "description": "Random dad joke generator.",
+  "require": {
+    "guzzlehttp/guzzle": "^6.3"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "G",
+      "email": "g11v8a@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "G11v8a\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "G11v8a\\Providers\\ArtisanJokeServiceProvider"
+      ]
+    }
+  }
+}
