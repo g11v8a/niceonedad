@@ -19,7 +19,7 @@ class JokeCommand extends Command
      *
      * @var string
      */
-    protected $description = 'Random (bad) joke generator.';
+    protected $description = 'Random dad joke generator.';
 
     /**
      * Create a new command instance.
